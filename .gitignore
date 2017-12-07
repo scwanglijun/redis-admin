@@ -20,3 +20,12 @@ pom.xml.releaseBackup
 dependency-reduced-pom.xml
 .idea/
 /.travis.yml
+/.idea/redis-admin.iml
+/.idea/compiler.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/dictionaries/
+/.idea/inspectionProfiles/
+/.idea/workspace.xml
+/.idea/encodings.xml
