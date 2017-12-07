@@ -18,5 +18,5 @@ META-INF/
 pom.xml.releaseBackup
 /release.properties
 dependency-reduced-pom.xml
-/.idea/
+.idea/
 /.travis.yml
