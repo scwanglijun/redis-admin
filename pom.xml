@@ -128,7 +128,7 @@
                 </configuration>
             </plugin>
 		</plugins>
-		<finalName>redis-admin</finalName>
+		<finalName>redisadmin</finalName>
 	</build>
 	
     <dependencies>
